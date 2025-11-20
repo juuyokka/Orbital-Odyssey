@@ -1,0 +1,13 @@
+name = "Orbital Odyssey"
+author = "tuxcraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dbd3566ac0faea91af6bd7cb76158fa3f24228103d6b29f8171760b89dca038f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"

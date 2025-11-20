@@ -1,0 +1,13 @@
+name = "Talismans"
+filename = "talismans_luna-1.2.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XSCqRaSC/versions/eIVbbHS8/talismans_luna-1.2.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "64bd4fc0d7c8858eb00eed1a6dfcfdd0fa516e558a0853d804712596ca6bda93c748979d3fe3a4e42c192b610488341de7fb5334e6c17cb7462dd2e1176a0c46"
+
+[update]
+[update.modrinth]
+mod-id = "XSCqRaSC"
+version = "eIVbbHS8"

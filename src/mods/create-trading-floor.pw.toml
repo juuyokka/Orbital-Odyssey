@@ -1,0 +1,13 @@
+name = "Create: Trading floor"
+filename = "trading_floor-3.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WROfLLvn/versions/BH86ZiS2/trading_floor-3.0.14.jar"
+hash-format = "sha512"
+hash = "182372162e2983feaab60bb1371b77ac1c6361a727e4610e1b49cd11fd3d8b2eeb27bc949bce160a3f48814ed12bc688957b6dc92f2ccfc8604bf1f37b097fae"
+
+[update]
+[update.modrinth]
+mod-id = "WROfLLvn"
+version = "BH86ZiS2"

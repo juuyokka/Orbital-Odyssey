@@ -1,0 +1,13 @@
+name = "JEI Integration: Reborn"
+filename = "jei_integration_reborn-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hh0hqGM2/versions/2CbxvXc0/jei_integration_reborn-1.0.2.jar"
+hash-format = "sha512"
+hash = "13c79c37fd2e1f690404a3d1cc86cbd43969ebffac7ac3afe5df0d9e9cb12d01d1b9e6174bb9f74d0354f6d92d46ddb387bc6bed4f27571f8971ebc514ab2d7b"
+
+[update]
+[update.modrinth]
+mod-id = "hh0hqGM2"
+version = "2CbxvXc0"

@@ -1,0 +1,13 @@
+name = "Create: Recycling Everything [NeoForge Port]"
+filename = "create_recycle_everything-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "405b43418fded03ef391a9dc9ee3e12a11145e0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6383172
+project-id = 1225687
