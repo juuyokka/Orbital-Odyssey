@@ -30,11 +30,11 @@ hash = "d65a45938643ca2a9e59381ab63944126aa4f6ca9af1931fe8cf93ce99cf2c7f"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "0f85628cd47ece89edd5d76a0fb69caf4ea86fa0f014bd1e56652fffdccfedb5"
+hash = "93265e2a06c67c595819fdede3abd55822aa95d311539e20520dc452dd2f6c5c"
 
 [[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "800a8053367b230607e2d4d2cf5d1715d797753cd82edbae15e48522796492e0"
+file = "kubejs/startup_scripts/klass.js"
+hash = "8e855823d2d8b7ef64a35374916b68565ed9b83c4dad5905cc625bd9c33507ab"
 
 [[files]]
 file = "mods/advancedae.pw.toml"
