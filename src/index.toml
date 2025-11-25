@@ -182,6 +182,11 @@ hash = "777d43c32847ac522bcad868f85c430eb0cea08d4a6af7d224b1458d11667d3d"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
@@ -449,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "e5a2b00a5a99de7ed4cf8184a60307afeecc4dce5ae0fb073cef29bef42e9826"
 metafile = true
 
 [[files]]
