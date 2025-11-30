@@ -57,6 +57,11 @@ hash = "64123af5ab8b822c26eca70cdecc679838bd7f6a963a8c63c6682ee578cd2322"
 metafile = true
 
 [[files]]
+file = "mods/always-eat.pw.toml"
+hash = "747d696d13d346ecc53ce28d90f3c85f5be78b90a16ed8e0f5943255c220bf9c"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "11fb2c5327b0b99d8b7ebb834f7ffef3134a92b4fd8d59e9470de266e1d98b1e"
 metafile = true
@@ -214,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
+metafile = true
+
+[[files]]
+file = "mods/create-additional-logistics.pw.toml"
+hash = "b20be8546a937593dfa37acf06d78910550492b546874c523b1b4db7ff9738a9"
 metafile = true
 
 [[files]]
