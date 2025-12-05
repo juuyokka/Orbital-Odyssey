@@ -712,6 +712,11 @@ hash = "e110f75f355369aebfc27da766e734972d5290de356fccd5773bdef1d85a3b77"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
