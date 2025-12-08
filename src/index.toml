@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-additional-logistics.pw.toml"
-hash = "b20be8546a937593dfa37acf06d78910550492b546874c523b1b4db7ff9738a9"
+hash = "9ffcc17c3ed4cc9dbd43d24591bfa33e4c9d54bf14c18ab2c39f23ca306a9eb6"
 metafile = true
 
 [[files]]
