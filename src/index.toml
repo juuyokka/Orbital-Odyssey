@@ -387,6 +387,11 @@ hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
+metafile = true
+
+[[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "1e972c8e08c25d4515181bb7f129a7fc5bbf1d1fa48036666ab2e4c8e0987197"
 metafile = true
@@ -574,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
